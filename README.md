@@ -1,7 +1,7 @@
 # ✩♬ ₊˚.🎧⋆☾⋆⁺₊✧ Front-End - Catálogo 
 
 <p align="center" width="300">
-   <img align="center" width="200" src="https://i.pinimg.com/originals/52/d8/d7/52d8d7d7dd20b858e02fd818ba06c53b.gif" />
+   <img align="center" width="200" src="https://img1.picmix.com/output/stamp/normal/4/0/8/3/743804_814c3.gif" />
    <h3 align="center"> Sarah . 🪻!</h3>
 </p>
 
